@@ -1,8 +1,6 @@
-## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm Software Engineer From Indonesia - Surabaya.
+## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm Software Engineer From Surabaya - Indonesia.
 
 - 🌱 I’m currently learning [Go Language](https://golang.org/), [RabbitMQ](https://www.rabbitmq.com/), and [Docker](https://www.docker.com/).
-- 👯 I’m looking to collaborate on any open source projects related to JavaScript, TypeScript and Golang.
-- 🤔 I’m looking for code review partner that related to my learning path.
 - 💬 Ask me about anything related to JavaScript, TypeScript, Golang and PHP.
 - 📫 Reach out to me directly through my [Email](mailto:zainokta@gmail.com).
 
