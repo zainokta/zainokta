@@ -1,7 +1,7 @@
 ## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm Software Engineer From Surabaya - Indonesia.
 
-- 🌱 I’m currently learning [Go Language](https://golang.org/), [RabbitMQ](https://www.rabbitmq.com/), and [Docker](https://www.docker.com/).
-- 💬 Ask me about anything related to JavaScript, TypeScript, Golang and PHP.
+- 🌱 I’m currently learning [Domain-Driven Design](https://www.domainlanguage.com/ddd/), System Design, and Software Architecture.
+- 💬 Ask me about anything related to JavaScript, Golang and Software Engineering.
 - 📫 Reach out to me directly through my [Email](mailto:zainokta@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
