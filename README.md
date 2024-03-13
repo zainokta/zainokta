@@ -1,7 +1,7 @@
-## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm Software Engineer From Surabaya - Indonesia.
+## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm a Software Engineer From Indonesia.
 
-- 🌱 I’m currently learning [Domain-Driven Design](https://www.domainlanguage.com/ddd/), System Design, and Software Architecture.
-- 💬 Ask me about anything related to JavaScript, Golang and Software Engineering.
+- 🌱 I’m currently learning Rust 🦀, System Design, and Software Architecture.
+- 💬 Ask me about anything related to Golang 🐀, and Software Engineering.
 - 📫 Reach out to me directly through my [Email](mailto:zainokta@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
