@@ -1,6 +1,6 @@
 ## 👋 Hi Everyone, I'm [Zainokta](https://zainokta.com/)! I'm a Software Engineer From Indonesia.
 
-- 🌱 I’m currently learning Rust 🦀, Odin, and Graphic Programming.
+- 🌱 I’m currently learning Rust 🦀, Odin, and Graphics Programming.
 - 💬 Ask me about anything related to Golang 🐀, and Software Engineering.
 - 📫 Reach out to me directly through my [Email](mailto:zainokta@gmail.com).
 
